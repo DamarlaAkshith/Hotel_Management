@@ -1,0 +1,2 @@
+2023-04-05 09:52:50,219 - loggerinstance - INFO - Booking data: [(2, 'AC', 'Akshith', datetime.date(2023, 4, 1), datetime.date(2023, 4, 3))]
+2023-04-05 09:53:10,398 - loggerinstance - INFO - Booking data: [(3, 'AC', 'Deekshith', datetime.date(2023, 4, 3), datetime.date(2023, 4, 5))]
